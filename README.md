@@ -1,6 +1,4 @@
-## whoami
-
-I'm a freelance developer / hacker who plays CTF in his spare time.
+# developer | hacker | CTF player
 
 [![sandr0.xyz](sandr0.png)](https://sandr0.xyz)
 [![hxp](hxp.webp)](https://hxp.io)
